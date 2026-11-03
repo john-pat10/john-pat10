@@ -10,8 +10,8 @@
 
 ## Projects - Apps & Tools
 - **[ChessCoach](https://github.com/john-pat10/chess-coach)** - Chess improvement app with three tools: move-by-move game review using a local Stockfish engine, an opponent scout that finds the openings a Lichess/chess.com player scores worst in, and a spaced-repetition openings trainer (SM-2, the algorithm Anki uses). (_Python, FastAPI, SQLite, React, Vite, Stockfish_)
-- **[Lapwatch](https://github.com/john-pat10/lapwatch)** - Stopwatch and timer in a single web page. Label each lap, see splits and pace, and get the fastest and slowest laps flagged automatically. Also has countdown presets, a chime, saved session history, and keyboard shortcuts. (_HTML, CSS, JavaScript_)
-- **[Perfect Pitch Trainer](https://github.com/john-pat10/perfect-pitch-trainer)** - Ear-training game: hear a note (or a 2–3 note chord), click the keys you heard, and build streaks. Choose synth or piano sound, the octave, and white keys, black keys or all keys. (_JavaScript, Tone.js_)
+- **[Lapwatch](https://github.com/john-pat10/lapwatch)** ([try it](https://john-pat10.github.io/lapwatch/)) - Stopwatch and timer in a single web page. Label each lap, see splits and pace, and get the fastest and slowest laps flagged automatically. Also has countdown presets, a chime, saved session history, and keyboard shortcuts. (_HTML, CSS, JavaScript_)
+- **[Perfect Pitch Trainer](https://github.com/john-pat10/perfect-pitch-trainer)** ([try it](https://john-pat10.github.io/perfect-pitch-trainer/)) - Ear-training game: hear a note (or a 2–3 note chord), click the keys you heard, and build streaks. Choose synth or piano sound, the octave, and white keys, black keys or all keys. (_JavaScript, Tone.js_)
 
 ## Interests
 - **Math & Data** - Analysis, optimization, and testing popular claims against real data
